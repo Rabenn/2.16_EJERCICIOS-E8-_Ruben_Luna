@@ -1,2 +1,2 @@
-Contenido de rama1
+Nuevas líneas en rama1
 Cambio en master
